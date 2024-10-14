@@ -20,4 +20,11 @@
 
 <h4>2024</h4>
 
-<a href="https://github.com/42organization/42gg.server.dev.v2" target="_blank">42GG - 7기</a> : Agenda 기능 개발 및 유지보수 (Backend Leader)
+<a href="https://github.com/42organization/42gg.server.dev.v2" target="_blank">42GG - 7기</a> : Agenda 기능 개발 및 유지보수 (Backend Leader) <p/>
+<a href="https://github.com/42organization/42gg.server.dev.v2" target="_blank">42GG</a> : Grafana와 Prometheus를 통한 성능개선 및 모니터링
+
+
+<h3>Portfolio</h3>
+
+<a href="https://probable-taste-236.notion.site/42GG-11e37ffaa5358014b606f6712fed9a20?pvs=74" target="_blank">42GG 프로젝트 명세서</a> <p/>
+<a href="https://aresain.tistory.com/" target="_blank">티스토리 블로그</a>
