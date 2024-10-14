@@ -16,8 +16,8 @@
 
 <h4>2023</h4>
 
-<a href="https://gg.42seoul.kr/" target="_blank">42GG - 6기</a> : 파티 기능 개발 및 유지보수 (Backend Leader)
+<a href="https://github.com/42organization/42gg.server.dev.v2" target="_blank">42GG - 6기</a> : 파티 기능 개발 및 유지보수 (Backend Leader)
 
 <h4>2024</h4>
 
-<a href="https://gg.42seoul.kr/" target="_blank">42GG - 7기</a> : Agenda 기능 개발 및 유지보수 (Backend Leader)
+<a href="https://github.com/42organization/42gg.server.dev.v2" target="_blank">42GG - 7기</a> : Agenda 기능 개발 및 유지보수 (Backend Leader)
